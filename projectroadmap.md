@@ -9,3 +9,9 @@ Sprint 2 Task
   Commit 6 changes of significant size ✔️
   Comment on each commit ✔️
   Continue working on code ✔️  
+
+Sprint 3 task 
+Finish coding project ✔️
+Finsh ppt ✔️
+Review both code and ppt 
+Present in teams on may 2nd !!
